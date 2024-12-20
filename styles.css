@@ -1,0 +1,35 @@
+body {
+    background-color: ghostwhite;
+    font-family: "Times New Roman", serif;
+}
+
+.centered-text {
+    text-align: center;   
+    padding: 100px;       
+}
+
+h1 {
+    color: black;
+    text-align: center;   
+    font-weight: bold;  
+    padding-left: 200px;
+    padding-right: 300px;   
+}
+
+p {
+    color: black;
+    font-size: 18px;
+    margin-bottom: 20px;
+    padding-left: 300px;
+    padding-right: 300px;    
+}
+
+iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;   
+    max-width: 684px; 
+    height: 800px;  
+    border: none;
+}
